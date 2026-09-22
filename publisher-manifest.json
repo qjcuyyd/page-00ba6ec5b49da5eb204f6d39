@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "35bb61aea695e06fbbe5648a",
+  "owner": "qjcuyyd",
+  "repo": "page-00ba6ec5b49da5eb204f6d39",
+  "title": "Zero云(Zero)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "00ba6ec5b49da5eb204f6d39",
+      "a": "Zero云(Zero)",
+      "b": "稳定全球clash加速器",
+      "entity": "Zero云(Zero)",
+      "brand": "Zero云(Zero)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3b45126bcec8276e0a322d5a8d57b90554e674e26407837126eaddab60e53254",
+      "content": {
+        "primary_entity": "Zero云(Zero)",
+        "keyword1": "Zero云(Zero)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，手机与电脑均有对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按自己的设备数量和月流量挑选 Zero云 版本，再去客户端配置订阅即可。",
+          "AI_CLOSING_TITLE": "选择合适的 Zero云 版本",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35、¥85，年付为 ¥150、¥350、¥850。流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由。使用 Clash 客户端导入订阅即可连接全球节点。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度快速了解 Zero云 的订阅差异。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机可用 Clash for Android 或 Shadowrocket，电脑可用 Clash Verge、ClashX 等常见客户端导入订阅。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单，团队版提供 VIP 专属高带宽节点和定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐容量清晰",
+          "AI_FEATURE_TITLE_2": "设备覆盖灵活",
+          "AI_FEATURE_TITLE_3": "线路按需选择",
+          "AI_GUIDE_INTRO": "三步完成从挑选版本到客户端订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Zero云(Zero) 面向需要稳定全球连接的用户，提供基础版、旗舰版与团队版三档订阅方案，流量与设备数量依次提升。借助 Clash 客户端导入订阅后，可在手机或电脑上按需选用节点线路，满足日常浏览、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "Zero云 全球节点订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "Clash 客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版适合轻量个人使用，旗舰版适合流媒体和游戏用户，团队版适合多人共享与定制需求。三档月付为 ¥15、¥35、¥85，年付为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量大小和需要同时在线的设备数量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认流量额度、设备上限以及线路类型是否符合使用习惯。",
+          "AI_STEP_TEXT_3": "打开 Clash 客户端，按客户端文档导入订阅地址，选择节点后即可开始连接。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Zero云 全球订阅",
+          "AI_FAQ_ANSWER_1": "在 Zero云用户中心复制订阅链接，粘贴到 Clash Verge 或 Shadowrocket 等客户端的订阅导入框中即可完成配置。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，超出后旧设备会被挤下线，可按需在用户中心升级套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版带有 IPLC 专线节点，在游戏与实时通话场景下延迟表现更稳定，基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "各档套餐均列出月付价与年付价，全年高频使用者选年付更划算，轻度用户可先按月付试用。",
+          "AI_FAQ_ANSWER_5": "套餐变更从用户中心进入订阅管理即可，升级后新流量额度当期生效，系统按剩余周期折算差价。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Zero云订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "不同套餐允许几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选比较划算？",
+          "AI_FAQ_QUESTION_5": "套餐可以随时升级吗？",
+          "AI_FAQ_TITLE": "套餐与使用问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rnlrk.cn",
+    "host": "rnlrk.cn"
+  },
+  "file_hashes": {
+    "index.html": "1ed5b109051f5f2e4b3169d0b88f826734f89ae303dbee2aa36e0a7618fc6c82",
+    "sitemap.xml": "a350f232c95253db6996de26cc0c1393d3f7b26df32a0ba67b4cde61b564eaaa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8bce49c820854f341cb3201481589bb1630d8db0c10642ef0892a6e66c8b143c",
+    "robots.txt": "250918aa22f8bcb845ac2c291f3cd378c604c60e9004ec60494b3df9fc6339e6",
+    "855dc55fe2cdbd86cfc887164801a184.txt": "d3f49da1fbec522e208fa5b787a1b4d441699b149b50bad3df5d4f3d8d202e8c"
+  },
+  "revision": "b72779bd1cc6bde5071b9dcf2c7998621931a78b14610be03381ea8b211aea1b"
+}
